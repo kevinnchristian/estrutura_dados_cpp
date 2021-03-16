@@ -16,3 +16,5 @@
 //                         ou
 //          > g++ *.cpp, gera um arquivo para executar [a.out]
 //          > executa ./time ou ./a.out
+//
+

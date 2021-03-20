@@ -4,4 +4,4 @@
 //    registro acadêmico (ra).
 
 // -> Que arquivo ta usando qual?
-//    - aluno.h > aluno.cpp > hash.h > basic.cpp > hash_application.cpp
+//    - aluno.h > aluno.cpp > hash.h > basic.cpp > hash_application.cpp - primeiro exercicio
